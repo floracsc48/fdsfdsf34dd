@@ -1,0 +1,5 @@
+vosk==0.3.45
+sounddevice==0.4.6
+simpleaudio==1.0.4
+colorama==0.4.6
+numpy==1.26.4
